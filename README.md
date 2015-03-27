@@ -15,3 +15,20 @@ See source code in code/hello.js. You can run this program from the command line
 
     cd code
     node hello.js
+
+
+In the browser
+==============
+
+See source code in code/app.js. You can run it by opening index.html in your
+favorite browser
+
+Install Bower
+=============
+
+To install bower you need to:
+
+    npm install -g bower
+    cd code
+    bower install
+

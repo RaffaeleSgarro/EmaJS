@@ -1,0 +1,23 @@
+{
+  "name": "emajs",
+  "version": "1.0.0",
+  "authors": [
+    "Raffaele Sgarro <raffaeleSgarro@gmail.com>"
+  ],
+  "description": "EmaJS is a project to mastering JS",
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-2.1.3.min": "http://code.jquery.com/jquery-2.1.3.min.js",
+    "jquery": "~2.1.3",
+    "lodash": "~3.6.0"
+  }
+}
